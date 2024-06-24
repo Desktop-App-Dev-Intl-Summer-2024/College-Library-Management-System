@@ -94,3 +94,25 @@ VALUES
 (4, 4, GETDATE(), DATEADD(DAY, 14, GETDATE())), -- Charlie Brown issues '1984'
 (5, 5, GETDATE(), DATEADD(DAY, 14, GETDATE())); -- Daisy Miller issues 'Pride and Prejudice'
 
+
+INSERT INTO Users (MemberID, Username, PasswordHash, Role)
+VALUES 
+(8, 'gracetaylor', 'hashed_password_here', 'Librarian'),
+(9, 'hankanderson', 'hashed_password_here', 'Librarian'),
+(10, 'ivymartin', 'hashed_password_here', 'Administrator');
+
+
+INSERT INTO Fines (TransactionID, FineAmount, FinePaid, PaymentDate)
+VALUES 
+(1, 5.00, 0, NULL), -- Fine for Alice Johnson
+(2, 10.00, 1, GETDATE()), -- Fine for Bob Smith
+(3, 3.50, 0, NULL), -- Fine for Charlie Brown
+(4, 2.00, 1, GETDATE()); -- Fine for Daisy Miller
+
+
+INSERT INTO Reports (ReportType, GeneratedDate, ReportData)
+VALUES 
+('IssuedBooks', GETDATE(), 'Report data for issued books goes here'),
+('OverdueBooks', GETDATE(), 'Report data for overdue books goes here'),
+('MemberActivities', GETDATE(), 'Report data for member activities goes here');
+
