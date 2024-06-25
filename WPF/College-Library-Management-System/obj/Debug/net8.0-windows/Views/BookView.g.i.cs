@@ -53,7 +53,7 @@ namespace College_Library_Management_System.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/College-Library-Management-System;component/views/bookview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/College-Library-Management-System;V1.0.0.0;component/views/bookview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Views\BookView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

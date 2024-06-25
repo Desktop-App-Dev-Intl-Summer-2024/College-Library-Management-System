@@ -34,3 +34,4 @@ C:\ApplicationDesktop\College-Library-Management-System\WPF\College-Library-Mana
 C:\ApplicationDesktop\College-Library-Management-System\WPF\College-Library-Management-System\obj\Debug\net8.0-windows\College-Library-Management-System.genruntimeconfig.cache
 C:\ApplicationDesktop\College-Library-Management-System\WPF\College-Library-Management-System\obj\Debug\net8.0-windows\ref\College-Library-Management-System.dll
 C:\ApplicationDesktop\College-Library-Management-System\WPF\College-Library-Management-System\obj\Debug\net8.0-windows\App.baml
+C:\ApplicationDesktop\College-Library-Management-System\WPF\College-Library-Management-System\bin\Debug\net8.0-windows\College-Library-Management-System.dll.config

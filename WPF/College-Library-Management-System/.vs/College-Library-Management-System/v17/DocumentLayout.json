@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\ApplicationDesktop\\College-Library-Management-System\\WPF\\College-Library-Management-System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B49139D8-F6E6-4622-AE54-8456F262548C}|College-Library-Management-System.csproj|c:\\applicationdesktop\\college-library-management-system\\wpf\\college-library-management-system\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B49139D8-F6E6-4622-AE54-8456F262548C}|College-Library-Management-System.csproj|solutionrelative:models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B49139D8-F6E6-4622-AE54-8456F262548C}|College-Library-Management-System.csproj|c:\\applicationdesktop\\college-library-management-system\\wpf\\college-library-management-system\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B49139D8-F6E6-4622-AE54-8456F262548C}|College-Library-Management-System.csproj|solutionrelative:models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B49139D8-F6E6-4622-AE54-8456F262548C}|College-Library-Management-System.csproj|c:\\applicationdesktop\\college-library-management-system\\wpf\\college-library-management-system\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B49139D8-F6E6-4622-AE54-8456F262548C}|College-Library-Management-System.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49139D8-F6E6-4622-AE54-8456F262548C}|College-Library-Management-System.csproj|c:\\applicationdesktop\\college-library-management-system\\wpf\\college-library-management-system\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B49139D8-F6E6-4622-AE54-8456F262548C}|College-Library-Management-System.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49139D8-F6E6-4622-AE54-8456F262548C}|College-Library-Management-System.csproj|c:\\applicationdesktop\\college-library-management-system\\wpf\\college-library-management-system\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49139D8-F6E6-4622-AE54-8456F262548C}|College-Library-Management-System.csproj|solutionrelative:models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B49139D8-F6E6-4622-AE54-8456F262548C}|College-Library-Management-System.csproj|c:\\applicationdesktop\\college-library-management-system\\wpf\\college-library-management-system\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,32 +90,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\ApplicationDesktop\\College-Library-Management-System\\WPF\\College-Library-Management-System\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\ApplicationDesktop\\College-Library-Management-System\\WPF\\College-Library-Management-System\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-25T14:34:08.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Transaction.cs",
               "DocumentMoniker": "C:\\ApplicationDesktop\\College-Library-Management-System\\WPF\\College-Library-Management-System\\Models\\Transaction.cs",
               "RelativeDocumentMoniker": "Models\\Transaction.cs",
               "ToolTip": "C:\\ApplicationDesktop\\College-Library-Management-System\\WPF\\College-Library-Management-System\\Models\\Transaction.cs",
               "RelativeToolTip": "Models\\Transaction.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-24T17:27:02.224Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Member.cs",
               "DocumentMoniker": "C:\\ApplicationDesktop\\College-Library-Management-System\\WPF\\College-Library-Management-System\\Models\\Member.cs",
               "RelativeDocumentMoniker": "Models\\Member.cs",
               "ToolTip": "C:\\ApplicationDesktop\\College-Library-Management-System\\WPF\\College-Library-Management-System\\Models\\Member.cs",
               "RelativeToolTip": "Models\\Member.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T17:27:00.787Z"
+              "WhenOpened": "2024-06-24T17:27:00.787Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\ApplicationDesktop\\College-Library-Management-System\\WPF\\College-Library-Management-System\\App.xaml.cs",
               "RelativeDocumentMoniker": "App.xaml.cs",
@@ -123,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "MainViewModel.cs",
               "DocumentMoniker": "C:\\ApplicationDesktop\\College-Library-Management-System\\WPF\\College-Library-Management-System\\ViewModels\\MainViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
@@ -135,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "LibraryView.xaml",
               "DocumentMoniker": "C:\\ApplicationDesktop\\College-Library-Management-System\\WPF\\College-Library-Management-System\\Views\\LibraryView.xaml",
               "RelativeDocumentMoniker": "Views\\LibraryView.xaml",
@@ -146,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "TransactionView.xaml.cs",
               "DocumentMoniker": "C:\\ApplicationDesktop\\College-Library-Management-System\\WPF\\College-Library-Management-System\\Views\\TransactionView.xaml.cs",
               "RelativeDocumentMoniker": "Views\\TransactionView.xaml.cs",
@@ -158,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\ApplicationDesktop\\College-Library-Management-System\\WPF\\College-Library-Management-System\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
@@ -169,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "TransactionView.xaml",
               "DocumentMoniker": "C:\\ApplicationDesktop\\College-Library-Management-System\\WPF\\College-Library-Management-System\\Views\\TransactionView.xaml",
               "RelativeDocumentMoniker": "Views\\TransactionView.xaml",
@@ -180,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\ApplicationDesktop\\College-Library-Management-System\\WPF\\College-Library-Management-System\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -191,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "LibraryDataAccess.cs",
               "DocumentMoniker": "C:\\ApplicationDesktop\\College-Library-Management-System\\WPF\\College-Library-Management-System\\Data\\LibraryDataAccess.cs",
               "RelativeDocumentMoniker": "Data\\LibraryDataAccess.cs",
@@ -203,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "LibraryViewModel.cs",
               "DocumentMoniker": "C:\\ApplicationDesktop\\College-Library-Management-System\\WPF\\College-Library-Management-System\\ViewModels\\LibraryViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\LibraryViewModel.cs",
@@ -215,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "College-Library-Management-System.csproj",
               "DocumentMoniker": "C:\\ApplicationDesktop\\College-Library-Management-System\\WPF\\College-Library-Management-System\\College-Library-Management-System.csproj",
               "RelativeDocumentMoniker": "College-Library-Management-System.csproj",
@@ -223,23 +241,25 @@
               "RelativeToolTip": "College-Library-Management-System.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-24T16:22:21.902Z"
+              "WhenOpened": "2024-06-24T16:22:21.902Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\ApplicationDesktop\\College-Library-Management-System\\WPF\\College-Library-Management-System\\Models\\Book.cs",
               "RelativeDocumentMoniker": "Models\\Book.cs",
               "ToolTip": "C:\\ApplicationDesktop\\College-Library-Management-System\\WPF\\College-Library-Management-System\\Models\\Book.cs",
               "RelativeToolTip": "Models\\Book.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T16:21:46.674Z"
+              "WhenOpened": "2024-06-24T16:21:46.674Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\ApplicationDesktop\\College-Library-Management-System\\WPF\\College-Library-Management-System\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
@@ -251,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\ApplicationDesktop\\College-Library-Management-System\\WPF\\College-Library-Management-System\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
